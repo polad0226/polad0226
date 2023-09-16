@@ -29,6 +29,6 @@
 
 ## 📫 How to reach me:
 
-<a href="https://leetcode.com/Polad_0226/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Embedded SVG"></a>
+<a href="https://leetcode.com/Polad_0226/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="30" width="40" alt="Embedded SVG"></a>
 <a href="https://www.linkedin.com/in/polad-yunisov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/polad-yunisov/" height="30" width="40" /></a>
 
